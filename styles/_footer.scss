@@ -1,0 +1,38 @@
+.footer{
+    .social {
+
+        a {
+        margin: 0 10px;
+        }
+    }
+}
+
+.fa{
+    &-github{
+
+        &:hover{
+            color: #000000;
+        }
+    }
+
+    &-facebook{
+
+        &:hover{
+            color: #1773EA;
+        }
+    }
+
+    &-instagram{
+
+        &:hover{
+            color: #B32E87;
+        }
+    }
+
+    &-twitter{
+
+        &:hover{
+            color: #1C9CEA; 
+        }
+    }
+}
